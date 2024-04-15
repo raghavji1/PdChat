@@ -1,0 +1,10 @@
+streamlit
+langchain-core
+langchain-community
+langchain
+langchain-google-genai
+langchain-embeddings
+langchain-schema
+langchain-document-loaders
+langchain-pdf
+dotenv
